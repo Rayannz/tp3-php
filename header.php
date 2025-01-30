@@ -12,7 +12,7 @@
 
     <!-- Bootstrap core CSS -->
 <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=search" />
+<script src="https://kit.fontawesome.com/7c32c5bc10.js" crossorigin="anonymous"></script>
     <!-- Custom styles for this template -->
     <link href="jumbotron.css" rel="stylesheet">
   </head>
@@ -40,8 +40,7 @@
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nationalités</a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="listeNationalite.php#">liste des nationalités</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
+          <a class="dropdown-item" href="formAjoutnationalite.php">Ajouter une nationalité</a>
         </div>
       </li>
     </ul>
